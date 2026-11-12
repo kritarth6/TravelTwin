@@ -76,3 +76,4 @@ def test_budget_agent_optimization():
     assert breakdown["intercity_transport"] == 3200.0 # Swapped to Train
     assert result["recommended_transport"]["mode"] == "Train"
     assert len(breakdown["optimization_notes"]) > 0
+

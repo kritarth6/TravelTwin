@@ -164,3 +164,4 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onStartPlanning }) => {
     </div>
   );
 };
+

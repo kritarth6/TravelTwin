@@ -121,3 +121,4 @@ export const TravelMap: React.FC<TravelMapProps> = ({ markers, destinationName }
     </div>
   );
 };
+

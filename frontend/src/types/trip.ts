@@ -174,3 +174,4 @@ export interface TripSummary {
   updated_at: string;
   overview?: string;
 }
+

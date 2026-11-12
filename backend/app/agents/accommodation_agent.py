@@ -142,3 +142,4 @@ def accommodation_agent_node(state: Dict[str, Any]) -> Dict[str, Any]:
         "recommended_accommodation": recommended,
         "agent_logs": state.get("agent_logs", []) + [log]
     }
+

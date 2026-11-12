@@ -120,3 +120,4 @@ def budget_agent_node(state: Dict[str, Any]) -> Dict[str, Any]:
         "recommended_accommodation": rec_hotel,
         "agent_logs": state.get("agent_logs", []) + [log]
     }
+

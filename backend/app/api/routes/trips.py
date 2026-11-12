@@ -55,3 +55,4 @@ async def delete_saved_trip(trip_id: str):
 async def get_trip_messages(trip_id: str):
     """Get chat refinement history for a trip."""
     return TripRepository.get_messages(trip_id)
+

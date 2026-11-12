@@ -63,3 +63,4 @@ def test_plan_and_refine_flow():
     # Verify deletion
     verify_del = client.get(f"/api/trips/{trip_id}")
     assert verify_del.status_code == 404
+

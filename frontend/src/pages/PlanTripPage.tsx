@@ -55,3 +55,4 @@ export const PlanTripPage: React.FC<PlanTripPageProps> = ({
     </div>
   );
 };
+

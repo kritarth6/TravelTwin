@@ -145,3 +145,4 @@ class TripRefineRequest(BaseModel):
     trip_id: str
     prompt: str
     current_plan: Optional[TripPlan] = None
+

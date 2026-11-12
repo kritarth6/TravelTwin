@@ -145,3 +145,4 @@ export const TransportComparison: React.FC<TransportComparisonProps> = ({ option
 function intFormat(val: number): string {
   return Math.round(val).toLocaleString('en-IN');
 }
+

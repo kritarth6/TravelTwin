@@ -107,3 +107,4 @@ export const RefinementChat: React.FC<RefinementChatProps> = ({
     </div>
   );
 };
+

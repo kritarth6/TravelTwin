@@ -143,3 +143,4 @@ def get_city_info(destination: str) -> dict:
     fallback = dict(DEFAULT_DESTINATION)
     fallback["name"] = destination.title()
     return fallback
+

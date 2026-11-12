@@ -267,3 +267,4 @@ export const TripResultsPage: React.FC<TripResultsPageProps> = ({
     </div>
   );
 };
+

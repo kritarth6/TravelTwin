@@ -37,3 +37,4 @@ services:
           type: web
           name: traveltwin-api
           property: host
+

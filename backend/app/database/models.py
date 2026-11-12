@@ -117,3 +117,4 @@ class TripRepository:
                 (trip_id,)
             )
             return [dict(r) for r in cursor.fetchall()]
+

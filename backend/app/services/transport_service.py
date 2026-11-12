@@ -48,3 +48,4 @@ def estimate_intercity_distance_km(origin: str, destination: str) -> float:
             
     # Default sensible heuristic distance between distinct cities
     return 650.0
+

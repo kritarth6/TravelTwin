@@ -99,3 +99,4 @@ def test_itinerary_agent():
     assert "evening" in itinerary[0]
     assert len(itinerary[0]["food_recommendations"]) > 0
     assert len(markers) >= 3
+

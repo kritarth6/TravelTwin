@@ -179,3 +179,4 @@ export const HotelCards: React.FC<HotelCardsProps> = ({ options, nights }) => {
     </div>
   );
 };
+

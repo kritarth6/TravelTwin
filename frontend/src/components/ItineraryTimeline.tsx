@@ -234,3 +234,4 @@ export const ItineraryTimeline: React.FC<ItineraryTimelineProps> = ({ itinerary 
     </div>
   );
 };
+

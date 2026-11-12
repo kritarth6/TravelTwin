@@ -352,3 +352,4 @@ export const TripForm: React.FC<TripFormProps> = ({ onSubmit, isLoading, initial
     </form>
   );
 };
+

@@ -32,3 +32,4 @@ def local_transport_agent_node(state: Dict[str, Any]) -> Dict[str, Any]:
         "local_transportation": options,
         "agent_logs": state.get("agent_logs", []) + [log]
     }
+

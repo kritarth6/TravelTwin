@@ -135,3 +135,4 @@ export const SavedTripsPage: React.FC<SavedTripsPageProps> = ({
     </div>
   );
 };
+

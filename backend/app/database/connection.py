@@ -55,3 +55,4 @@ def get_db():
         conn.commit()
     finally:
         conn.close()
+

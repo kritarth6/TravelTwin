@@ -146,3 +146,4 @@ def itinerary_agent_node(state: Dict[str, Any]) -> Dict[str, Any]:
         "map_markers": map_markers,
         "agent_logs": state.get("agent_logs", []) + [log]
     }
+

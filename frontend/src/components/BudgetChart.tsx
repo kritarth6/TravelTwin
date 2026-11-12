@@ -154,3 +154,4 @@ export const BudgetChart: React.FC<BudgetChartProps> = ({ breakdown, travellers 
     </div>
   );
 };
+

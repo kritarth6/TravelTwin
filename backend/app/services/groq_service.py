@@ -55,3 +55,4 @@ class GroqLLMService:
         )
         user_prompt = f"Existing Plan:\n{current_plan_json}\n\nUser Instruction:\n{user_instruction}"
         return self.generate_json(system_prompt, user_prompt, temperature=0.2)
+

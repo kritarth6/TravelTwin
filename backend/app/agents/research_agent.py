@@ -37,3 +37,4 @@ async def research_agent_node(state: Dict[str, Any]) -> Dict[str, Any]:
         "weather_info": weather,
         "agent_logs": state.get("agent_logs", []) + [new_log]
     }
+

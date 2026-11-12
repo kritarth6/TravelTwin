@@ -40,3 +40,4 @@ class PlanGraphState(TypedDict):
     agent_logs: List[Dict[str, Any]]
     is_demo_mode: bool
     error: Optional[str]
+
